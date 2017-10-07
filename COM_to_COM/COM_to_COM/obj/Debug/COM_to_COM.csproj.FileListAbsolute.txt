@@ -1,0 +1,10 @@
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.csprojResolveAssemblyReference.cache
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.Form1.resources
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.Properties.Resources.resources
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.csproj.GenerateResource.Cache
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.csproj.CoreCompileInputs.cache
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\bin\Debug\COM_to_COM.exe.config
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\bin\Debug\COM_to_COM.exe
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\bin\Debug\COM_to_COM.pdb
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.exe
+C:\Projects\TFoCS\COM_to_COM\COM_to_COM\obj\Debug\COM_to_COM.pdb
