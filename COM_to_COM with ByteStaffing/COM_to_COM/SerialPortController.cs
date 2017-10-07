@@ -29,6 +29,7 @@ namespace COM_to_COM
 
         public void SendData(byte[] data)
         {
+            data = ByteStuffing.Encode(data);
             serialPort.RtsEnable = true;
             serialPort.Write(data, 0, data.Length);
             Thread.Sleep(100);
@@ -39,6 +40,7 @@ namespace COM_to_COM
         {
             byte[] data = new byte[serialPort.BytesToRead];
             serialPort.Read(data, 0, data.Length);
+            data = ByteStuffing.Decode(data);
             handler.Invoke(System.Text.Encoding.Default.GetString(data), false);
         }
     }
